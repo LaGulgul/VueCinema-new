@@ -1,0 +1,15 @@
+.footer{
+    background: linear-gradient(90deg, #FF8C30 0%, #9F4700 100%);
+    padding: 27px 48px;
+}
+.footer__wrap{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer__nav{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
